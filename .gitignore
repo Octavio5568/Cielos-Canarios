@@ -1,0 +1,39 @@
+# Node.js
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Directory for instrumented lib/ directory
+lib-cov
+
+# Coverage directory used by tools like istanbul
+coverage
+
+# Build directory
+dist
+
+# Production
+/node_modules
+/build
+
+# Misc
+.DS_Store
+.env
+
+# React
+# Dependency directory
+node_modules/
+# Build output
+build/
+# System Files
+.DS_Store
+Thumbs.db
